@@ -1,0 +1,91 @@
+@import url("header.css");
+@import url("footer.css");
+.main-img{
+	width: 100%;
+
+}
+.main-img img{
+	width: 100%;
+	display: block;
+	
+}
+.huise{
+	background-color: #606060;
+	width: 100%;
+	height:30px;
+	text-align: center;
+	line-height: 30px;
+}
+.public>img{
+	width: 100%;
+}
+.content-main img{
+	float: left;
+}
+.content-main-right p{
+	color: #99c2ff;
+	font-size: 12px;
+	padding-top: 15px;
+}
+.content-main-right h4{
+	color: #b3b3b3;
+	font-size: 12px;
+	list-style: none;
+	display: inline-block;
+	padding-top: 15px;
+}
+.content-main-right span{
+	border: 1px solid #606060;
+	color: #99b3e5;
+	font-size: 13px;
+}
+.content-di>p{
+	font-size: 14px;
+	padding: 30px 0 70px 20px;
+}
+.content-foot{
+	text-align: center;
+	width: 100%;
+	background-color: #606060;
+}
+.content-foot p{
+	padding: 5px;
+}
+.content-foot-a{
+	text-align: left;
+	margin: 0 10px 0 10px;
+	background-color: #f5f3f0;
+	padding: 20px 100px 0px 100px;
+}
+.content-foot-a p{
+	color: #c2c1bf;
+	font-size: 14px;
+	padding: 10px 0;
+}
+.content-foot-a input{
+	border: none;
+	width: 100%;
+}
+.content-foot-btn span:first-child{
+	color: white;
+	background-color: #606060;
+	padding: 5px 25px;
+	cursor: pointer;
+}
+.content-foot-btn span:last-child{
+	color: white;
+	background-color: #0c6ad3;
+	padding: 5px 25px;
+	margin-left: 30px;
+	line-height: 200px;
+	cursor: pointer;
+}
+.content-foot-btn {
+	text-align: center;
+}
+.input2{
+	height: 30px;
+}
+.input3{
+	height:50px;
+}

@@ -1,0 +1,30 @@
+.footer{
+	background-color: #262626;
+}
+.footer .public li{
+	float: left;
+	padding: 63px 80px;
+	text-align: center;
+	font-size: 12px;
+	color: #b9b9b9;
+}
+.footer .public li a{
+	display: block;
+	color: #b9b9b9;
+	font-size: 12px;
+}
+.footer .public li a:hover{
+	color: white;
+}
+.footer .public li a:first-child{
+	font-size: 14px;
+	color: #ffffff;
+}
+.footer-address p{
+	float: left;
+}
+.footer-address img{
+	float: left;
+	padding-right: 4px;
+}
+
